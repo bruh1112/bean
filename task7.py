@@ -10,7 +10,7 @@ def buy():
     if s1.get().isnumeric() and s2.get().isnumeric() and s3.get().isnumeric() and s4.get().isnumeric():
         print(str(int(s1.get()) * cap))
     else:
-        print("gh")
+        print("gh")drfghhdughdjkghdkfjsdfghjk
 
 defa, defa1, defa2, defa3 = tk.IntVar(0), tk.IntVar(0), tk.IntVar(0), tk.IntVar(0)
 check = tk.IntVar()
